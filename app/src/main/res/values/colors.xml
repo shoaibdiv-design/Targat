@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#0F6E56</color>
+    <color name="brand_dark">#085041</color>
+    <color name="ok_bg">#E1F5EE</color>
+    <color name="ok_text">#085041</color>
+    <color name="warn_bg">#FAEEDA</color>
+    <color name="warn_text">#633806</color>
+    <color name="off_bg">#F1EFE8</color>
+    <color name="off_text">#444441</color>
+    <color name="danger">#A32D2D</color>
+    <color name="launcher_bg">#0F6E56</color>
+</resources>

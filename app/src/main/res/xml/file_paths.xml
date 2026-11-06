@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Ledger PDF / Excel files made for sharing (WhatsApp, Gmail, Save). -->
+    <cache-path name="exports" path="exports/" />
+</paths>
